@@ -1,0 +1,15 @@
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DaoThiHang_KHMT4_k10.exe.config
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DaoThiHang_KHMT4_k10.exe
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DaoThiHang_KHMT4_k10.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\BUL.dll
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DTO.dll
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DAL.dll
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\BUL.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DTO.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\bin\Debug\DAL.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.Form1.resources
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.Properties.Resources.resources
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.csproj.GenerateResource.Cache
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.exe
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DaoThiHang_KHMT4_k10\obj\Debug\DaoThiHang_KHMT4_k10.csprojResolveAssemblyReference.cache

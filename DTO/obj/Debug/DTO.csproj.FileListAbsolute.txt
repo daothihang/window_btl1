@@ -1,0 +1,8 @@
+D:\NguyenThiMinh_KHMT4_k10\DTO\bin\Debug\DTO.dll
+D:\NguyenThiMinh_KHMT4_k10\DTO\bin\Debug\DTO.pdb
+D:\NguyenThiMinh_KHMT4_k10\DTO\obj\Debug\DTO.dll
+D:\NguyenThiMinh_KHMT4_k10\DTO\obj\Debug\DTO.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DTO\bin\Debug\DTO.dll
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DTO\bin\Debug\DTO.pdb
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DTO\obj\Debug\DTO.dll
+C:\Users\Admins\Desktop\NguyenThiMinh_KHMT4_k10\DTO\obj\Debug\DTO.pdb
